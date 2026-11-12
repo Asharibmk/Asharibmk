@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Asharib
 
-<!--
-**Asharibmk/Asharibmk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Science student and independent researcher with a strong interest in machine learning, artificial intelligence and data-driven problem solving.
 
-Here are some ideas to get you started:
+I enjoy working across the full data science workflow: exploring and analysing data, building and evaluating machine learning models, and turning ideas into working applications. My research interests lie in hardware-aware and efficient AI systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+
+Python · SQL · PyTorch · TensorFlow · scikit-learn · Hugging Face · LangChain · Power BI · Docker · Git · Linux
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/asharib-khan-1858b72bb) · [asharib.mk@gmail.com](mailto:asharib.mk@gmail.com)
