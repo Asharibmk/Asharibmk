@@ -6,7 +6,7 @@ I enjoy working across the full data science workflow: exploring and analysing d
 
 ### Tech Stack
 
-Python · SQL · PyTorch · TensorFlow · scikit-learn · Hugging Face · LangChain · Power BI · Docker · Git · Linux
+Python · SQL · PyTorch · TensorFlow · scikit-learn · Hugging Face · LangChain · FastAPI · llama.cpp · Power BI · Docker · Git · Linux
 
 ### Connect
 
